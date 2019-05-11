@@ -8,7 +8,7 @@ We are a group of IT Pro's and developers that believe that the future of IT con
 
 The US job market expects the demand for IT Pro's to increase by 4% the coming years. The demand for developers will increase by 30% in the same time.
 
-The IT landscape is more & more focusing on the app and less & less on the server. As cloud platforms bring most economy with PaaS and SaaS technologies, the IaaS world like virtual machines, storage and systems management is rapidly becoming obsolete. We notice that a lot of IT Pro's with a great skillset are being locked-in and see their existing knowledge investments losing value. However, it are the same people that have a great potentional to become great DevOps engineers, developers and architect. It is all about using the knowledge you have and use it to understand new concepts and learn something new.
+The IT landscape is more & more focusing on the app and less & less on the server. As cloud platforms bring most economy with PaaS and SaaS technologies, the IaaS world like virtual machines, storage and systems management is rapidly becoming obsolete. We notice that a lot of IT Pro's with a great skillset are being locked-in and see their existing knowledge investments losing value. However, it are the same people that have a great potentional to become great DevOps engineers, developers and architects. It is all about using the knowledge you have and use it to understand new concepts and learn something new.
 
 Our goal is to help IT Pro's in becoming acquainted with the cloud concepts & approaches and get the information they need to become profecient at operating an environment using DevOps technologies and processes.
 
